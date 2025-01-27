@@ -1,4 +1,4 @@
-## Hi there 👋
+## Freelance Interactive Developer
 
 <!--
 **lmarti17/lmarti17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌍 I'm Lucas, freelance interactive developer with 6+ years of experience from France 🇫🇷 and currently based in Vienna, Austria 🇦🇹.
+
+I have a keen interest in working with cut-edge technologies to bring to life innovative user experiences.
+
+Please have a look of a selection of my latest projects:
+
+- [A year of Cartier](https://ayearofcartier2023.vercel.app/en-us/) / 2024
+- [Grafik Apartment](https://www.grafikapartment.com/) / 2024
+- [Browserbase](https://www.browserbase.com/) / 2024
+- [Amina Muaddi](https://www.aminamuaddi.com/) / 2023
+- Find others on [lucasmartin.fr](https://www.lucasmartin.fr/)
+
+I previously partnered with [Hervé Studio](https://www.herve.paris/), [AKQA](https://www.akqa.com/), [Period Paris](https://period.paris/), [Wild](https://wild.as/) or [MAD](https://mad.ac/) for interactive websites.
+
+You can connect with me on [Github](https://github.com/lmarti17), [Linkedin](https://www.linkedin.com/in/lucas-martin-02b5b290/), [X](https://x.com/lmarti17) or [Bluesky](https://bsky.app/profile/lucasmartin.fr).
+
+💡 Most used techs: NextJS, Sveltkit, Gsap, ThreeJS, R3F...
+
+🚨 I'm avaible for freelance.
+📨 Feel free to contact me at [contact@lucasmartin.fr](mailto:contact@lucasmartin.fr).
