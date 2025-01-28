@@ -1,4 +1,7 @@
-## Freelance Interactive Developer
+![background](https://github.com/user-attachments/assets/79df1214-8522-4b36-be6f-02a7e8643ec6)
+
+## Freelance Interactive Developer / 🚨 Available
+
 
 <!--
 **lmarti17/lmarti17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌍 I'm Lucas, freelance interactive developer with 6+ years of experience from France 🇫🇷 and currently based in Vienna, Austria 🇦🇹.
 
+👋🏻 Hello there,  
+I'm Lucas, freelance interactive developer with 6+ years of experience.  
+I'm from France 🇫🇷 and currently based in Vienna, Austria 🇦🇹.  
 I have a keen interest in working with cut-edge technologies to bring to life innovative user experiences.
 
 Please have a look of a selection of my latest projects:
@@ -33,5 +38,5 @@ You can connect with me on [Github](https://github.com/lmarti17), [Linkedin](htt
 
 💡 Most used techs: NextJS, Sveltkit, Gsap, ThreeJS, R3F...
 
-🚨 I'm avaible for freelance.
+🚨 I'm avaible for freelance.  
 📨 Feel free to contact me at [contact@lucasmartin.fr](mailto:contact@lucasmartin.fr).
